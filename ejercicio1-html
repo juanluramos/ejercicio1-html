@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <h1>Párrafo de dos lineas</h1>
+        <div>
+         <p>Este es mi primer comentario de dos líneas</p>
+        <p>Aprendiendo a documentar mi código con OpenBootcamp</p>   
+        </div>
+        <h2>Mis videos favoritos son: </h2>
+        <ul>
+        <li><a href="https://www.youtube.com/watch?v=OujBkA3sZ5U"> Gohan Pasa Super Saiyan 2 Por Primera Vez </a></li>
+        <li><a href="https://www.youtube.com/watch?v=i2GEOcEcRtY"> Depeche Mode - Personal Jesus (Live on Letterman)</a></li>
+        <li><a href="https://www.youtube.com/watch?v=qlR5hqaL0bI"> Chiste de Cura Granadino en Sevilla</a></li>
+        </ul>
+    </body>
+</html>
